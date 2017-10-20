@@ -1,5 +1,5 @@
 # HW 12 | Tower of babel
-## Tasks
+## Task
 
 Follow instructions at http://nodeschool.io/ to install and run tower-of-babel. <br />
 Follow exercises and verify that all Your files pass corresponding tasks tests. <br />
